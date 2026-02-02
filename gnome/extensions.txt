@@ -1,0 +1,6 @@
+# Displays icons for background processes,
+appindicatorsupport@rgcjonas.gmail.com
+# Shows your workspaces in the top bar
+workspace-indicator@gnome-shell-extensions.gcampax.github.com
+# Lets you tweak GNOME behavior *without* adding UI elements -> “GNOME advanced settings” panel
+just-perfection-desktop@just-perfection

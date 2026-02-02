@@ -1,0 +1,16 @@
+# History
+HISTFILE=~/.zsh_history
+HISTSIZE=5000
+SAVEHIST=5000
+setopt HIST_IGNORE_DUPS
+
+# Completion
+autoload -Uz compinit
+compinit
+
+# Prompt
+PROMPT='%F{cyan}%n@%m %F{blue}%~ %f%# '
+
+# Aliases
+alias ll='ls -la'
+alias gs='git status'

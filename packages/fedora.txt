@@ -1,0 +1,23 @@
+# Core
+git
+zsh
+neovim
+
+# GNOME tools
+gnome-tweaks
+gnome-extensions-app
+
+# Containers
+podman
+podman-compose
+buildah
+skopeo
+
+# Gaming
+steam
+lutris
+gamemode
+mangohud
+
+# TUI tools
+btop
