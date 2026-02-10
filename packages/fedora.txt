@@ -21,3 +21,4 @@ mangohud
 
 # TUI tools
 btop
+fzf
