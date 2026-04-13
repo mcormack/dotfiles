@@ -51,7 +51,8 @@ No heavy theming, no excessive automation.
 After configuring GNOME
 
 ```bash
-scripts/gnome-export.sh
+cd scripts
+. ./gnome-export.sh
 ```
 
 Commit the changes.
@@ -61,7 +62,8 @@ Commit the changes.
 On a new install:
 
 ```bash
-scripts/gnome-import.sh
+cd scripts
+. ./gnome-import.sh
 ```
 
 ### Package Management Rules
