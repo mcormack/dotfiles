@@ -40,6 +40,6 @@ flatpak install -y flathub \
 # ------------------------------
 # Shell
 # ------------------------------
-chsh -s "$(which zsh)"
+sudo chsh -s "$(which zsh)" "$USER"
 
 echo "=== Install complete. REBOOT NOW. ==="
